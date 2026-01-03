@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhiraj1112
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Start up 
 - 📫 How to reach me , you can connect with me on LinedIn - https://www.linkedin.com/in/abhi-raj-a58663244/?trk=opento_sprofile_topcard
 - 😄 Pronouns: Problem Analyser
