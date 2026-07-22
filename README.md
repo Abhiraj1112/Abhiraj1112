@@ -25,10 +25,6 @@
 ### 💻 Languages
 
 - C++
-- JavaScript
-- HTML5
-- CSS3
-- SQL
 
 ### 🎨 Frontend
 
